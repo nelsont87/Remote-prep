@@ -196,5 +196,43 @@
 
 // console.log(original, duplicated); //should not be the same!
 
+// var friends = ['ada', 'will', 'bianca', 'abe'];
+// var enemies = ['john', 'alice'];
+
+// var frenemies = friends.concat(enemies);
+
+// console.log(frenemies);
+// console.log(friends, enemies);	//does not change original arrays!
+
+// var array_combiner = function(array1, array2) {
+// 	var combo = array1.concat(array2);
+// 	return combo;
+// }
+
+// var combined_array = array_combiner([1,2,3], [4,5,6]);
+// console.log(combined_array);
+
+// var frenemies = ['ada', 'will', 'bianca', 'abe', 'john', 'alice'];
+// var starting_at_index = 3;
+// var number_to_remove = 2;
+
+// var removed_elements = frenemies.splice(starting_at_index, number_to_remove);
+
+// console.log("We took out ", removed_elements);
+// console.log("The remaining array ", frenemies);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
